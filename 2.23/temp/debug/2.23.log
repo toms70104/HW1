@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(372,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(373,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\jason\desktop\hw1\2.23\source\main.c(6): warning C4101: 'max': 未參考的區域變數
+c:\users\jason\desktop\hw1\2.23\source\main.c(6): warning C4101: 'min': 未參考的區域變數
+  2.23.vcxproj -> C:\Users\jason\Desktop\HW1\2.23\2.23\2.23\..\..\temp\debug\2.23.exe
+  2.23.vcxproj -> ..\..\temp\debug\2.23.pdb (Partial PDB)
